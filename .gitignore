@@ -1,0 +1,5 @@
+#ignore all txt file
+*.txt
+venv/
+.ipynb_checkpoints/
+Procfile
